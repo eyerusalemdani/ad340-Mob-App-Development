@@ -13,3 +13,7 @@ Intel x86 Emulator Accelerator (HAXM)
 Also, create an Android virtual device (AVD) that can run in the Android Emulator.
 
 You should submit in Canvas a screenshot of your computer running Android studio and running a basic Android app in the device emulator.
+
+HW 2 UI Layout
+
+![HW-2 UI Layout ](https://user-images.githubusercontent.com/56328015/121763575-0d5c9600-caf2-11eb-895c-5320c43c7214.jpg)
