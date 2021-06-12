@@ -1,3 +1,4 @@
+![HW-2 UI Layout Project](https://user-images.githubusercontent.com/56328015/121763689-e3f03a00-caf2-11eb-9c07-656c680e79eb.jpg)
 # ad340-Mob-App-Development
 
 Home Work1 First_Android_Project
